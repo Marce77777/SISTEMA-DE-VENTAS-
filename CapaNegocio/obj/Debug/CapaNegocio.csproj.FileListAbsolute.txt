@@ -1,0 +1,192 @@
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\CapaNegocio\bin\Debug\Azure.Core.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Azure.Identity.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Options.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Buffers.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.ClientModel.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Memory.Data.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Memory.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.AccessControl.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Principal.Windows.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Text.Encodings.Web.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Text.Json.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\System.ValueTuple.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.dll.config
+D:\PROYECTO\CapaNegocio\bin\Debug\Azure.Core.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Azure.Identity.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Options.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Buffers.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.ClientModel.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Memory.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Memory.Data.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Numerics.Vectors.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.AccessControl.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Security.Principal.Windows.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Text.Encodings.Web.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Text.Json.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\System.ValueTuple.xml
+D:\PROYECTO\CapaNegocio\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Azure.Core.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Azure.Identity.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Options.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Buffers.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.ClientModel.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Memory.Data.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Memory.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.AccessControl.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Principal.Windows.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Text.Encodings.Web.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Text.Json.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.ValueTuple.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\CapaDatos.dll.config
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Azure.Core.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Azure.Identity.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Options.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Buffers.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.ClientModel.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Memory.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Memory.Data.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Numerics.Vectors.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.AccessControl.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Security.Principal.Windows.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Text.Encodings.Web.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Text.Json.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\System.ValueTuple.xml
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaNegocio\obj\Debug\CapaNegocio.pdb

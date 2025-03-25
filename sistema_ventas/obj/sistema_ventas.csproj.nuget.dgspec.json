@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj": {}
+  },
+  "projects": {
+    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
+        "projectName": "sistema_ventas",
+        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
+        "packagesPath": "C:\\Users\\MARTHA_PC\\.nuget\\packages\\",
+        "outputPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MARTHA_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj": {
+                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

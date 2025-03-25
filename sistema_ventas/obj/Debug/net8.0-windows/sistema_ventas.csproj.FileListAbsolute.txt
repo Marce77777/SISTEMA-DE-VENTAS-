@@ -1,0 +1,146 @@
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.exe
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.deps.json
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.runtimeconfig.json
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.pdb
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.dll.config
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.pdb
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.dll.config
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.pdb
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.dll.config
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.AssemblyReference.cache
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.Form1.resources
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.GenerateResource.cache
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.AssemblyInfoInputs.cache
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.AssemblyInfo.cs
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.CoreCompileInputs.cache
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_.1DBFB3B7.Up2Date
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.dll
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\refint\sistema_ventas.dll
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.pdb
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.genruntimeconfig.cache
+D:\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\ref\sistema_ventas.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\refint\sistema_ventas.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.exe
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.deps.json
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.runtimeconfig.json
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\sistema_ventas.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaPresentacion.dll.config
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaDatos.dll.config
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.pdb
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\CapaNegocio.dll.config
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.AssemblyReference.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.Form1.resources
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.GenerateResource.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.AssemblyInfoInputs.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.AssemblyInfo.cs
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.csproj.CoreCompileInputs.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_.1DBFB3B7.Up2Date
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.genruntimeconfig.cache
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\ref\sistema_ventas.dll
