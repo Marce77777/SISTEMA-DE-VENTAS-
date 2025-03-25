@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +13,7 @@ using CapaNegocio;
 
 namespace CapaPresentacion
 {
+   
     public partial class frmArticulo : Form
     {
         private bool IsNuevo = false;
@@ -25,6 +28,14 @@ namespace CapaPresentacion
 
             }
             return _Instancia;
+        }
+        //ESTO MODIFIQUE
+        public Image ByteArrayToImage(byte[] byteArrayIn)
+        {
+            using (MemoryStream ms = new MemoryStream(byteArrayIn))
+            {
+                return Image.FromStream(ms);
+            }
         }
         //ENVIAR VALORES RECIBIDOOS A LA CAJA DE TEXTO
         public void setMarca(string id_marca, string nombre_marca)
@@ -63,9 +74,19 @@ namespace CapaPresentacion
             this.txtDescripcion.Text = string.Empty;
             this.txtIdmarca.Text = string.Empty;
             this.txtMarca.Text = string.Empty;
-       //     this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
-            
+           //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
+            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+          //  this.pxImagen.Image = global::CapaPresentacion.recursos.file;
+
+            //this.pxImagen.Image = Properties.Resources.file;
+
+
         }
+
+       /* private Image ByteArrayToImage(byte[] file)
+        {
+            throw new NotImplementedException();
+        }*/
 
         //habilitar los controles del formualario
         private void Habilitar(bool valor)
@@ -177,7 +198,8 @@ namespace CapaPresentacion
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.pxImagen.SizeMode=PictureBoxSizeMode.StretchImage;
-          //  this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//NO HAY CARPETA RESOURCES
+            //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//NO HAY CARPETA RESOURCES
+            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
@@ -220,8 +242,10 @@ namespace CapaPresentacion
                     byte[] imagen = ms.GetBuffer();
                     if (this.IsNuevo)
                     {
-                        rpta = NArticulo.Insertar(this.txtCodigo.Text.Trim().ToUpper(),this.txtNombre.Text.Trim().ToUpper(),
-                               this.txtDescripcion.Text.Trim(),imagen, Convert.ToInt32(this.txtIdmarca.Text), Convert.ToInt32(cbIdmarca.SelectedValue));
+                        /*rpta = NArticulo.Insertar(this.txtCodigo.Text.Trim().ToUpper(),this.txtNombre.Text.Trim().ToUpper(),
+                               this.txtDescripcion.Text.Trim(),imagen, Convert.ToInt32(this.txtIdmarca.Text), Convert.ToInt32(cbIdmarca.SelectedValue));*/
+                        rpta = NArticulo.Insertar(this.txtCodigo.Text.Trim().ToUpper(), this.txtNombre.Text.Trim().ToUpper(),
+                              this.txtDescripcion.Text.Trim(), imagen, Convert.ToInt32(this.txtIdmarca.Text));
                     }
                     else
                     {

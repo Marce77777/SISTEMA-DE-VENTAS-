@@ -25,7 +25,7 @@ namespace sistema_ventas
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(frmArticulo.GetInstancia());
-           // Application.Run(new FrmMarca());
+           //Application.Run(new FrmMarca());
             
         }
     }
