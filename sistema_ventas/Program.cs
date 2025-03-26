@@ -24,10 +24,11 @@ namespace sistema_ventas
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-           // Application.Run(frmArticulo.GetInstancia());
-         //   Application.Run(new FrmMarca());
-            Application.Run(new frmUsuario());
-
+            // Application.Run(frmArticulo.GetInstancia());
+            //   Application.Run(new FrmMarca());
+            //Application.Run(new frmUsuario());
+            //Application.Run(new frmPrincipal());
+            Application.Run(new frmLogin());
         }
     }
 }

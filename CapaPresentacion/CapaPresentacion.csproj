@@ -55,11 +55,23 @@
     <Compile Include="frmArticulo.Designer.cs">
       <DependentUpon>frmArticulo.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMarca.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmMarca.Designer.cs">
       <DependentUpon>FrmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="frmUsuario.cs">
       <SubType>Form</SubType>
@@ -113,8 +125,14 @@
     <EmbeddedResource Include="frmArticulo.resx">
       <DependentUpon>frmArticulo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMarca.resx">
       <DependentUpon>FrmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmUsuario.resx">
       <DependentUpon>frmUsuario.cs</DependentUpon>
@@ -129,6 +147,183 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="recursos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscardetalle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cajita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\categoria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cincel7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compraFecha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consulta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %286%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destornillador1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destornillador2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destornillador3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destornillador4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destornillador5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ferreteria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ingresos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\martillo con pico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\martillo redondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP%287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\presentacion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proveedores.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sds-max-drill-chisel-kit-5ak-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockArticulos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tarjeta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventaFecha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventas.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

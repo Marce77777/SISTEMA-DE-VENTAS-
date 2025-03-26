@@ -196,3 +196,5 @@ E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPr
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
