@@ -219,7 +219,7 @@ namespace CapaPresentacion
             this.Botones();
             this.Limpiar();
             this.Habilitar(true);
-            this.txtNombre.Focus();
+            this.txtCodigo.Focus();
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)

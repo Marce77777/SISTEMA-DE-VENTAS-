@@ -145,3 +145,9 @@ E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-w
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.genruntimeconfig.cache
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\ref\sistema_ventas.dll
 E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\obj\Debug\net8.0-windows\sistema_ventas.sourcelink.json
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\TRABAJOS REALIZADOS PASANTIAS, ETC\PROYECTO\sistema_ventas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
