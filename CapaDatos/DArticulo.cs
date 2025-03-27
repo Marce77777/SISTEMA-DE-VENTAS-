@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using System.Data;
+//using System.Data;
 using Microsoft.Data.SqlClient;  
 namespace CapaDatos
 {
@@ -94,6 +94,7 @@ namespace CapaDatos
 
                 SqlParameter ParImagen = new SqlParameter();
                 ParImagen.ParameterName = "@imagen";
+               // ParImagen.SqlDbType = SqlDbType.VarBinary;
                 ParImagen.SqlDbType = SqlDbType.Image;
                 ParImagen.Value = Articulo.Imagen;
                 SqlCmd.Parameters.Add(ParImagen);
@@ -167,6 +168,7 @@ namespace CapaDatos
                 SqlParameter ParImagen = new SqlParameter();
                 ParImagen.ParameterName = "@imagen";
                 ParImagen.SqlDbType = SqlDbType.Image;
+                //ParImagen.SqlDbType = SqlDbType.VarBinary;
                 ParImagen.Value = Articulo.Imagen;
                 SqlCmd.Parameters.Add(ParImagen);
 
@@ -271,6 +273,36 @@ namespace CapaDatos
                 ParTextoBuscar.SqlDbType = SqlDbType.VarChar;
                 ParTextoBuscar.Size = 50; 
                 ParTextoBuscar.Value = Articulo.TextoBuscar; 
+                SqlCmd.Parameters.Add(ParTextoBuscar);
+
+                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
+                SqlDat.Fill(DtResultado);
+            }
+            catch (Exception ex)
+            {
+                DtResultado = null;
+            }
+            return DtResultado;
+        }
+
+        // Metodo Buscar Codigo
+        public DataTable BuscarCodigo(DArticulo Articulo)
+        {
+            DataTable DtResultado = new DataTable("articulo");
+            SqlConnection SqlCon = new SqlConnection();
+            try
+            {
+                SqlCon.ConnectionString = Conexion.Cn;
+                SqlCommand SqlCmd = new SqlCommand();
+                SqlCmd.Connection = SqlCon;
+                SqlCmd.CommandText = "spbuscar_articulo_codigo";
+                SqlCmd.CommandType = CommandType.StoredProcedure;
+
+                SqlParameter ParTextoBuscar = new SqlParameter();
+                ParTextoBuscar.ParameterName = "@textobuscar";
+                ParTextoBuscar.SqlDbType = SqlDbType.VarChar;
+                ParTextoBuscar.Size = 50;
+                ParTextoBuscar.Value = Articulo.TextoBuscar;
                 SqlCmd.Parameters.Add(ParTextoBuscar);
 
                 SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);

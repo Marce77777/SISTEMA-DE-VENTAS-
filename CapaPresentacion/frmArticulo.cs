@@ -74,8 +74,8 @@ namespace CapaPresentacion
             this.txtDescripcion.Text = string.Empty;
             this.txtIdmarca.Text = string.Empty;
             this.txtMarca.Text = string.Empty;
-           //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
-            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+            this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
+            //this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
           //  this.pxImagen.Image = global::CapaPresentacion.recursos.file;
 
             //this.pxImagen.Image = Properties.Resources.file;
@@ -125,23 +125,31 @@ namespace CapaPresentacion
 
 
         //metodo ocultar columnas
-         private void OcultarColumnas(DataGridView dataListado)
+         /*private void OcultarColumnas(DataGridView dataListado)
           {
               this.dataListado.Columns[0].Visible = false;
              this.dataListado.Columns[1].Visible = false;
             this.dataListado.Columns[6].Visible = false;
 
-        }
-
+          }*/
 
         private void OcultarColumnas()
+        {
+            this.dataListado.Columns[0].Visible = false;
+            this.dataListado.Columns[1].Visible = false;
+            this.dataListado.Columns[6].Visible = false;
+
+        }
+
+       /* private void OcultarColumnas()
         {
             if (this.dataListado.Columns.Count > 0)
                 this.dataListado.Columns[0].Visible = false;
 
             if (this.dataListado.Columns.Count > 6)
                 this.dataListado.Columns[6].Visible = false;//REVISAR
-        }
+        }*/
+
         //metodo mostrar todos los registros de todas las categorias
         private void Mostrar()
         {
@@ -158,6 +166,14 @@ namespace CapaPresentacion
             this.OcultarColumnas();
             lblTotal.Text = "Total de Registros : " + Convert.ToString(dataListado.Rows.Count);
         }
+        //Metodo BuscarCodigo
+        private void BuscarCodigo()
+        {
+            dataListado.DataSource = NArticulo.BuscarCodigo(this.txtBuscar.Text);
+            this.OcultarColumnas();
+            lblTotal.Text = "Total de Registros : " + Convert.ToString(dataListado.Rows.Count);
+        }
+        //DEL COMBOBOX
         private void LlenarComboMarca()
         {
             cbIdmarca.DataSource = NMarca.Mostrar();
@@ -198,18 +214,40 @@ namespace CapaPresentacion
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.pxImagen.SizeMode=PictureBoxSizeMode.StretchImage;
-            //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//NO HAY CARPETA RESOURCES
-            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+           this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;
+          //  this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            this.BuscarNombre();
+            /*if(this.cbBuscar.Text.Equals("Nombre"))
+            {
+                this.BuscarNombre();
+            }
+            else if (this.cbBuscar.Text.Equals("Codigo"))
+                this.BuscarCodigo();*/
+
+            MessageBox.Show(this.cbBuscar.Text); // Para verificar el valor seleccionado
+
+            if (this.cbBuscar.Text.Equals("Nombre"))
+            {
+                this.BuscarNombre();
+            }
+            else if (this.cbBuscar.Text.Equals("Codigo"))
+            {
+                this.BuscarCodigo();
+            }
         }
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
         {
-            this.BuscarNombre();
+            //this.BuscarNombre();
+            if (this.cbBuscar.Text.Equals("Nombre"))
+            {
+                this.BuscarNombre();
+            }
+            else if (this.cbBuscar.Text.Equals("Codigo"))
+                this.BuscarCodigo();
         }
 
         private void btnNuevo_Click(object sender, EventArgs e)
@@ -249,9 +287,12 @@ namespace CapaPresentacion
                     }
                     else
                     {
+                        /*rpta = NArticulo.Editar(Convert.ToInt32(this.txtIdarticulo.Text),
+                             this.txtCodigo.Text.Trim().ToUpper(), this.txtNombre.Text.Trim().ToUpper(),
+                               this.txtDescripcion.Text.Trim(), imagen, Convert.ToInt32(this.txtIdmarca.Text), Convert.ToInt32(cbIdmarca.SelectedValue));*/
                         rpta = NArticulo.Editar(Convert.ToInt32(this.txtIdarticulo.Text),
                              this.txtCodigo.Text.Trim().ToUpper(), this.txtNombre.Text.Trim().ToUpper(),
-                               this.txtDescripcion.Text.Trim(), imagen, Convert.ToInt32(this.txtIdmarca.Text), Convert.ToInt32(cbIdmarca.SelectedValue));
+                               this.txtDescripcion.Text.Trim(), imagen, Convert.ToInt32(this.txtIdmarca.Text));
                     }
                     //si recibe un "Ok"
                     if (rpta.Equals("OK"))
@@ -321,24 +362,50 @@ namespace CapaPresentacion
 
         private void dataListado_DoubleClick(object sender, EventArgs e)
         {
+            // Validaciones previas para evitar errores
+            if (this.dataListado.CurrentRow == null)
+            {
+                MessageBox.Show("No hay ninguna fila seleccionada.");
+                return;
+            }
+
+            if (!this.dataListado.Columns.Contains("id_articulo"))
+            {
+                MessageBox.Show("La columna 'id_articulo' no existe en la grilla.");
+                return;
+            }
+
+            if (this.dataListado.CurrentRow.Cells["id_articulo"].Value == null)
+            {
+                MessageBox.Show("El ID del artículo es nulo.");
+                return;
+            }
+            // Asigna valores a los campos de texto
             this.txtIdarticulo.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["id_articulo"].Value);
             this.txtCodigo.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["codigo"].Value);
             this.txtNombre.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["nombre"].Value);
             this.txtDescripcion.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["descripcion"].Value);
-            byte[] imagenBuffer = (byte[]) this.dataListado.CurrentRow.Cells["imagen"].Value;
-            System.IO.MemoryStream ms = new System.IO.MemoryStream(imagenBuffer);
-
-            this.pxImagen.Image = Image.FromStream(ms);
-            this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;
+            // Manejo de la imagen
+            if (this.dataListado.CurrentRow.Cells["imagen"].Value != DBNull.Value)
+            {
+                byte[] imagenBuffer = (byte[])this.dataListado.CurrentRow.Cells["imagen"].Value;
+                System.IO.MemoryStream ms = new System.IO.MemoryStream(imagenBuffer);
+                this.pxImagen.Image = Image.FromStream(ms);
+                this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;
+            }
+            else
+            {
+                MessageBox.Show("Este artículo no tiene una imagen guardada.");
+                this.pxImagen.Image = null; // Opcional: poner una imagen por defecto
+            }
 
             this.txtIdmarca.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["id_marca"].Value);
-            this.txtMarca.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["Marca"].Value); //revisar Marca
+            this.txtMarca.Text = Convert.ToString(this.dataListado.CurrentRow.Cells["Marca"].Value);
 
-            this.cbIdmarca.SelectedValue = Convert.ToString(this.dataListado.CurrentRow.Cells["id_marca"].Value);
-
-
+            // Cambiar de pestaña
             this.tabControl1.SelectedIndex = 1;
         }
+
 
         private void chkEliminar_CheckedChanged(object sender, EventArgs e)
         {
