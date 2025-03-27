@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj": {}
+    "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj": {}
   },
   "projects": {
-    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj": {
+    "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaDatos\\CapaDatos.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj",
+        "projectUniqueName": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaDatos\\CapaDatos.csproj",
         "projectName": "CapaDatos",
-        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj",
+        "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaDatos\\CapaDatos.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {
@@ -20,17 +20,17 @@
         "net472": {}
       }
     },
-    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj": {
+    "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaNegocio\\CapaNegocio.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj",
+        "projectUniqueName": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaNegocio\\CapaNegocio.csproj",
         "projectName": "CapaNegocio",
-        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj",
+        "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaNegocio\\CapaNegocio.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj": {
-                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\CapaDatos.csproj"
+              "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaDatos\\CapaDatos.csproj"
               }
             }
           }
@@ -40,17 +40,17 @@
         "net472": {}
       }
     },
-    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj": {
+    "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectUniqueName": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj",
         "projectName": "CapaPresentacion",
-        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj": {
-                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\CapaNegocio.csproj"
+              "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaNegocio\\CapaNegocio.csproj"
               }
             }
           }
@@ -60,20 +60,20 @@
         "net472": {}
       }
     },
-    "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj": {
+    "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
+        "projectUniqueName": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj",
         "projectName": "sistema_ventas",
-        "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
-        "packagesPath": "C:\\Users\\MARTHA_PC\\.nuget\\packages\\",
-        "outputPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\obj\\",
+        "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj",
+        "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
+        "outputPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MARTHA_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -82,14 +82,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj": {
-                "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj"
+              "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj": {
+                "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj"
               }
             }
           }
@@ -110,6 +111,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.1, )"

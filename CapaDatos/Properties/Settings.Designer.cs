@@ -26,8 +26,8 @@ namespace CapaDatos.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-ECBC1V5\\EXPRESSERVER;Initial Catalog=DB_SISTEMA_VENTAS;Integr" +
-            "ated Security=True;TrustServerCertificate=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-N5G760G\\SQLEXPRESS;Initial Catalog=DB_SISTEMA_VENTAS;Integrat" +
+            "ed Security=True;TrustServerCertificate=True")]
         public string cn {
             get {
                 return ((string)(this["cn"]));

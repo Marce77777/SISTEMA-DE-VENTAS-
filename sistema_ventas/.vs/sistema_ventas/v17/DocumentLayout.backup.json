@@ -1,46 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\",
+  "WorkspaceRootPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBB70674-334E-47F7-83FF-D726E17E4711}|..\\CapaNegocio\\CapaNegocio.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capanegocio\\narticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E53B076F-65EC-4490-A1FC-3F31650EEE8B}|..\\CapaDatos\\CapaDatos.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmvistamarca_articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmvistamarca_articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C073E83F-2EAA-4274-91F2-3C545DB840F9}|sistema_ventas.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\sistema_ventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C073E83F-2EAA-4274-91F2-3C545DB840F9}|sistema_ventas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E53B076F-65EC-4490-A1FC-3F31650EEE8B}|..\\CapaDatos\\CapaDatos.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capapresentacion\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB70674-334E-47F7-83FF-D726E17E4711}|..\\CapaNegocio\\CapaNegocio.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capanegocio\\nmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E53B076F-65EC-4490-A1FC-3F31650EEE8B}|..\\CapaDatos\\CapaDatos.csproj|e:\\trabajos realizados pasantias, etc\\proyecto\\capadatos\\dmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +18,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 344,
+          "DockedHeight": 369,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -62,174 +31,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmArticulo.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmArticulo.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmArticulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmArticulo.cs",
-              "RelativeToolTip": "..\\CapaPresentacion\\frmArticulo.cs",
-              "ViewState": "AgIAAGMBAAAAAAAAAAASwHEBAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmMarca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\FrmMarca.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmMarca.cs",
+              "ToolTip": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:30:47.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:19:07.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NArticulo.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\NArticulo.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\NArticulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\NArticulo.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\NArticulo.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAywD4AAAALAAAAAAAAAA==",
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\frmCliente.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmCliente.cs",
+              "ToolTip": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\frmCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T20:49:14.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmVistaMarca_Articulo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmVistaMarca_Articulo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\CapaPresentacion\\frmVistaMarca_Articulo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T09:18:42.074Z",
+              "WhenOpened": "2025-03-27T03:19:04.65Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmVistaMarca_Articulo.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "RelativeToolTip": "..\\CapaPresentacion\\frmVistaMarca_Articulo.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAArwEMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T09:24:38.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DArticulo.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\DArticulo.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\DArticulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\DArticulo.cs",
-              "RelativeToolTip": "..\\CapaDatos\\DArticulo.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwD4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T14:47:51.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "frmArticulo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmArticulo.cs",
+              "DocumentMoniker": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\frmArticulo.cs",
               "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmArticulo.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:00:29.665Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\Properties\\Resources.resx",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\Properties\\Resources.resx",
-              "RelativeToolTip": "..\\CapaPresentacion\\Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-24T22:17:54.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:02:34.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmMarca.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\FrmMarca.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmMarca.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:52:12.698Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\Conexion.cs",
-              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T20:28:27.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmMarca.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\FrmMarca.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmMarca.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\FrmMarca.cs",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmMarca.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAIwG4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T09:25:35.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DMarca.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\DMarca.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\DMarca.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaDatos\\DMarca.cs",
-              "RelativeToolTip": "..\\CapaDatos\\DMarca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T20:04:13.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NMarca.cs",
-              "DocumentMoniker": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\NMarca.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\NMarca.cs",
-              "ToolTip": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaNegocio\\NMarca.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\NMarca.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA9wDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T20:50:14.848Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 56,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-03-27T03:18:52.639Z"
             }
           ]
         }
