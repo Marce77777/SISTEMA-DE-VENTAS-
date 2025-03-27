@@ -47,6 +47,18 @@
           }
         }
       },
+      "FontAwesome.Sharp/6.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -779,6 +791,23 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FontAwesome.Sharp/6.6.0": {
+      "sha512": "bJCb2x73UC1nD9+9iMLaUy6Ujf9Pf+buL6FHwVnaoDYT4CQNLazz59hO5gQ0+SMSW0G+ZXmjjShOYr3Jn2UZiw==",
+      "type": "package",
+      "path": "fontawesome.sharp/6.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome.sharp.6.6.0.nupkg.sha512",
+        "fontawesome.sharp.nuspec",
+        "lib/net472/FontAwesome.Sharp.dll",
+        "lib/net48/FontAwesome.Sharp.dll",
+        "lib/net6.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/net7.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/net8.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/netcoreapp3.1/FontAwesome.Sharp.dll"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -1871,28 +1900,33 @@
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "CapaPresentacion >= 1.0.0",
+<<<<<<< HEAD
       "Microsoft.Data.SqlClient >= 6.0.1",
       "System.Data.SqlClient >= 4.9.0"
+=======
+      "FontAwesome.Sharp >= 6.6.0",
+      "Microsoft.Data.SqlClient >= 6.0.1"
+>>>>>>> maday
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MARTHA_PC\\.nuget\\packages\\": {},
+    "C:\\Users\\ADRIAN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
+      "projectUniqueName": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj",
       "projectName": "sistema_ventas",
-      "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\sistema_ventas.csproj",
-      "packagesPath": "C:\\Users\\MARTHA_PC\\.nuget\\packages\\",
-      "outputPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\sistema_ventas\\obj\\",
+      "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\sistema_ventas.csproj",
+      "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
+      "outputPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MARTHA_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1901,14 +1935,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj": {
-              "projectPath": "E:\\TRABAJOS REALIZADOS PASANTIAS, ETC\\PROYECTO\\CapaPresentacion\\CapaPresentacion.csproj"
+            "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj": {
+              "projectPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\CapaPresentacion.csproj"
             }
           }
         }
@@ -1929,6 +1964,10 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
+          "FontAwesome.Sharp": {
+            "target": "Package",
+            "version": "[6.6.0, )"
+          },
           "Microsoft.Data.SqlClient": {
             "target": "Package",
             "version": "[6.0.1, )"

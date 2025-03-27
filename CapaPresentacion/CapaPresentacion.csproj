@@ -62,11 +62,19 @@
     <Compile Include="frmArticulo.Designer.cs">
       <DependentUpon>frmArticulo.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
+=======
+    <Compile Include="frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+>>>>>>> maday
     </Compile>
     <Compile Include="FrmMarca.cs">
       <SubType>Form</SubType>
@@ -133,8 +141,13 @@
     <EmbeddedResource Include="frmArticulo.resx">
       <DependentUpon>frmArticulo.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+>>>>>>> maday
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMarca.resx">
       <DependentUpon>FrmMarca.cs</DependentUpon>
@@ -156,6 +169,7 @@
   <ItemGroup>
     <Folder Include="recursos\" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <None Include="Resources\login.jpg" />
   </ItemGroup>
@@ -336,5 +350,7 @@
   <ItemGroup>
     <None Include="Resources\file.png" />
   </ItemGroup>
+=======
+>>>>>>> maday
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

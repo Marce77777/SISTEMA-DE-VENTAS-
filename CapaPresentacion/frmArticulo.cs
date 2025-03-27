@@ -74,8 +74,13 @@ namespace CapaPresentacion
             this.txtDescripcion.Text = string.Empty;
             this.txtIdmarca.Text = string.Empty;
             this.txtMarca.Text = string.Empty;
+<<<<<<< HEAD
             this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
             //this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+=======
+           //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//FALTA CARPETA RESOURCES
+            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+>>>>>>> maday
           //  this.pxImagen.Image = global::CapaPresentacion.recursos.file;
 
             //this.pxImagen.Image = Properties.Resources.file;
@@ -214,8 +219,13 @@ namespace CapaPresentacion
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.pxImagen.SizeMode=PictureBoxSizeMode.StretchImage;
+<<<<<<< HEAD
            this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;
           //  this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+=======
+            //this.pxImagen.Image = global::CapaPresentacion.Properties.Resources.file;//NO HAY CARPETA RESOURCES
+            this.pxImagen.Image = ByteArrayToImage(global::CapaPresentacion.Properties.Resources.file);
+>>>>>>> maday
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
@@ -460,6 +470,11 @@ namespace CapaPresentacion
         {
             frmVistaMarca_Articulo form = new frmVistaMarca_Articulo();
             form.ShowDialog();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

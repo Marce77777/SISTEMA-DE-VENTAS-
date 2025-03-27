@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sistema_ventas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6832e83338fe882f421bfc31a341e60a6a82371")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fe1e1eb8984b4fe0c4e0f3705c5d0ad60e9192f")]
+>>>>>>> maday
 [assembly: System.Reflection.AssemblyProductAttribute("sistema_ventas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sistema_ventas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

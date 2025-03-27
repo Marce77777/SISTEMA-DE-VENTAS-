@@ -165,6 +165,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DB_SISTEMA_VENTASDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DCliente.cs" />
     <Compile Include="DMarca.cs" />
     <Compile Include="DUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
