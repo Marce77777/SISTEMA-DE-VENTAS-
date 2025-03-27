@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\sistema_ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E62FAD-E9D0-42C6-B389-5EB8609A5F02}|..\\CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ven\\sistema-de-ventas-\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -19,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 369,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,18 +31,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmMarca.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\FrmMarca.cs",
               "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmMarca.cs",
               "ToolTip": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\CapaPresentacion\\FrmMarca.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:19:07.79Z"
+              "WhenOpened": "2025-03-27T03:19:07.79Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\SISTEMA VEN\\SISTEMA-DE-VENTAS-\\CapaPresentacion\\frmCliente.cs",
               "RelativeDocumentMoniker": "..\\CapaPresentacion\\frmCliente.cs",
@@ -62,6 +63,16 @@
               "RelativeToolTip": "..\\CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T03:18:52.639Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
